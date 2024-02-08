@@ -1,5 +1,5 @@
 
-# The project has been published here here:
+# The project has been published here:
 https://public.tableau.com/app/profile/abraham.jesse.diaz.periano/viz/Global_Happiness_Score_Dashboard/Dashboard_happiness
 
 
