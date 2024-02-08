@@ -4,7 +4,7 @@ https://public.tableau.com/app/profile/abraham.jesse.diaz.periano/viz/Sales_Over
 
                                   - *Tableau Project* -
 
-# Name of the Project: Sales Overview in India
+# Project title: Sales Overview in India - Dashboard
 
 ## Introduction:
 This Tableau project provides an overview of sales trends and patterns in India. The project aims to analyze
