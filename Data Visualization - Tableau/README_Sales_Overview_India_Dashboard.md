@@ -1,4 +1,4 @@
-# Find the project here:
+# The project has been published here:
 https://public.tableau.com/app/profile/abraham.jesse.diaz.periano/viz/Sales_Overview_India_Dashboard/Dashboard2
 
 - *Tableau Propject* -
