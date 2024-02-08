@@ -49,5 +49,4 @@ projects in the future.
 
 Thank you for visiting my portfolio! If you have any questions or inquiries, feel free to reach out.
 
-Best regards,
 Abraham Jsse
