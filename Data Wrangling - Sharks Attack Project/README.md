@@ -1,14 +1,14 @@
 
 					- * Data Wrangling* -
-Project Title: Shark Attack Analysis
+# Project Title: Shark Attack Analysis
 
-Introduction:
+## Introduction:
 
 This project aims to analyze a dataset containing information about shark attacks worldwide. 
 The primary objectives include data cleaning, formatting, and analysis to extract valuable insights
 regarding shark attacks. The project utilizes both Python and SQL for data manipulation and analysis.
 
-Primary Objectives:
+## Primary Objectives:
 
 -	Importing Dataframe and Initial Analysis: Importing the dataset into a DataFrame, performing 
 	initial analysis, and identifying areas for data cleaning.
@@ -26,7 +26,7 @@ Primary Objectives:
 
 -	Hypothesis Testing: Testing hypotheses related to shark attacks using the cleaned dataset.
 
-Libraries and Imports Used:
+## Libraries and Imports Used:
 
 -	Pandas: For data manipulation and analysis.
 -	Matplotlib: For data visualization.
@@ -36,7 +36,7 @@ Libraries and Imports Used:
 -	Requests: For making HTTP requests to fetch data.
 -	Mysql.connector: For interacting with MySQL databases.
 
-Conclusion:
+## Conclusion:
 
 The project successfully achieved its objectives by performing comprehensive data cleaning, 
 formatting, and analysis. Insights were extracted to test hypotheses related to shark attacks, 
