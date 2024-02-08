@@ -1,6 +1,6 @@
 # AbrahamsJesse.github.io
 
-# Portfolio  - Abraham Jesse, Data Analyst
+# Portfolio  - Abraham Jesse -  Data Analyst
 
 ## Introduction:
 
