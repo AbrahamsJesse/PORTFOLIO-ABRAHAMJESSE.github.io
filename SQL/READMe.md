@@ -27,7 +27,7 @@ to understand market trends and competitors.
     common fuel types, and correlation between seating capacity and selling price.
    
 -  Views and CTEs: Creating views and common table expressions (CTEs) for specific brands to facilitate analysis.
--  
+  
 -  Ownership Analysis: Investigating pricing trends based on seller type and fuel type.
   
 ## Functions and Techniques Used:
