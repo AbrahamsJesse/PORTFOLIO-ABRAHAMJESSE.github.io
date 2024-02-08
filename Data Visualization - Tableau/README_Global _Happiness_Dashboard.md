@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/abraham.jesse.diaz.periano/viz/Global_Hap
 
                               - *Tableau Project* - 
 
-# Tableau Project: Global Happiness Score and Antidepressants Use - Dashboards
+# Name of the project: Global Happiness Score and Antidepressants Use - Dashboards
 
 ## Introduction:
 
