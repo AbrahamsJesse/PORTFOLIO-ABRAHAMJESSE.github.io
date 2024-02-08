@@ -1,8 +1,8 @@
 # AbrahamsJesse.github.io
 
-Portfolio  - Abraham Jesse, Data Analyst
+# Portfolio  - Abraham Jesse, Data Analyst
 
-Introduction:
+## Introduction:
 
 Welcome to my portfolio! I'm Abraham, a Spanish data analyst with a diverse range of skills 
 and experiences in data visualization, data wrangling, machine learning, Python programming
@@ -11,7 +11,7 @@ web scraping, and database management.
 This portfolio showcases some of my most notable projects, demonstrating my expertise and 
 proficiency in various aspects of data analysis.
 
-Projects:
+## Projects:
 
 -  Data Visualization - Tableau Content Loaded
 This project showcases my expertise in creating visually appealing and insightful data visualizations
@@ -39,7 +39,7 @@ The Filterflix Project demonstrates my web scraping skills, where I extract movi
 gather and manipulate data from the web for analysis and insights.
 
 
-Conclusion:
+## Conclusion:
 
 Through these projects, I aim to showcase my passion for data analysis and my commitment to delivering 
 high-quality, actionable insights. Each project represents a unique challenge that I approached with 
