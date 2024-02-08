@@ -41,7 +41,7 @@ This chart highlights the distribution of transactions based on different paymen
 (COD) emerges as the leading payment method, followed by Credit Card, with Equated Monthly Installment (EMI)
 being the third most preferred payment option.
 
-# Conclusion:
+## Conclusion:
 Through this Tableau project, a comprehensive understanding of sales dynamics in India is achieved. 
 By analyzing sold quantity, profits, state-wise distribution, and payment methods, valuable insights 
 are obtained, which can aid in strategic decision-making and optimizing sales strategies in the Indian market.
