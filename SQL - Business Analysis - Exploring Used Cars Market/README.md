@@ -1,5 +1,5 @@
                                   -*SQL Business Project*-
-# Project Title: Exploring the Used Card Market
+# Project Title: Exploring the Second-hand Car Market
 
 ## Project Overview:
 
